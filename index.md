@@ -1,6 +1,6 @@
 ## 欢迎来到实时互联网技术大百科
 
-这里汇集了实时通讯有关的众多资料
+这里汇集了实时通信有关的众多资料
 
 如果大家想体验下 Agora 的产品，以便对延时，清晰度，流畅度等等有个直观的认识，可以直接下载我们的应用
 
@@ -27,21 +27,77 @@
 对于初次使用 Agora SDK 的开发者来说，这是一个容易上手的示例，我们提供了完整的源码。
 ```
 ###### 音频
-|Platform|Language|   GitHub   |
-|:------:|:------:|:-------------:|
-|   iOS  |Swift|[https://github.com/AgoraIO/Agora-iOS-Voice-Tutorial-Swift-1to1](https://github.com/AgoraIO/Agora-iOS-Voice-Tutorial-Swift-1to1)|
-| Android|Java|[https://github.com/AgoraIO/Agora-Android-Voice-Tutorial-1to1](https://github.com/AgoraIO/Agora-Android-Voice-Tutorial-1to1)|
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Platform</th>
+<th style="text-align: center">Language</th>
+<th style="text-align: center">GitHub</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Swift</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-iOS-Voice-Tutorial-Swift-1to1">https://github.com/AgoraIO/Agora-iOS-Voice-Tutorial-Swift-1to1</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Android-Voice-Tutorial-1to1">https://github.com/AgoraIO/Agora-Android-Voice-Tutorial-1to1</a></td>
+</tr>
+</tbody>
+</table>
 
 ###### 视频
-|Platform|Language|   GitHub   |
-|:------:|:------:|:-------------:|
-|   iOS  |Swift|[https://github.com/AgoraIO/Agora-iOS-Tutorial-Swift-1to1](https://github.com/AgoraIO/Agora-iOS-Tutorial-Swift-1to1)|
-|   iOS  |Objective-C|[https://github.com/AgoraIO/Agora-iOS-Tutorial-Objective-C-1to1](https://github.com/AgoraIO/Agora-iOS-Tutorial-Objective-C-1to1)|
-| Android|Java|[https://github.com/AgoraIO/Agora-Android-Tutorial-1to1](https://github.com/AgoraIO/Agora-Android-Tutorial-1to1)|
-| Android|Kotlin|[https://github.com/AgoraIO/Agora-Android-Tutorial-Kotlin-1to1](https://github.com/AgoraIO/Agora-Android-Tutorial-Kotlin-1to1)|
-|    Web |JavaScript|[https://github.com/AgoraIO/Agora-Web-Tutorial-1to1](https://github.com/AgoraIO/Agora-Web-Tutorial-1to1)|
-| Windows| C++  |[https://github.com/AgoraIO/Agora-Windows-Tutorial-1to1](https://github.com/AgoraIO/Agora-Windows-Tutorial-1to1)|
-|  macOS |Objective-C|[https://github.com/AgoraIO/Agora-macOS-Tutorial-Objective-C-1to1](https://github.com/AgoraIO/Agora-macOS-Tutorial-Objective-C-1to1)|
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Platform</th>
+<th style="text-align: center">Language</th>
+<th style="text-align: center">GitHub</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Swift</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-iOS-Tutorial-Swift-1to1">https://github.com/AgoraIO/Agora-iOS-Tutorial-Swift-1to1</a></td>
+</tr>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Objective-C</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-iOS-Tutorial-Objective-C-1to1">https://github.com/AgoraIO/Agora-iOS-Tutorial-Objective-C-1to1</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Android-Tutorial-1to1">https://github.com/AgoraIO/Agora-Android-Tutorial-1to1</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Kotlin</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Android-Tutorial-Kotlin-1to1">https://github.com/AgoraIO/Agora-Android-Tutorial-Kotlin-1to1</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Web</td>
+<td style="text-align: center">JavaScript</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Web-Tutorial-1to1">https://github.com/AgoraIO/Agora-Web-Tutorial-1to1</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Windows</td>
+<td style="text-align: center">C++</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Windows-Tutorial-1to1">https://github.com/AgoraIO/Agora-Windows-Tutorial-1to1</a></td>
+</tr>
+<tr>
+<td style="text-align: center">macOS</td>
+<td style="text-align: center">Objective-C</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-macOS-Tutorial-Objective-C-1to1">https://github.com/AgoraIO/Agora-macOS-Tutorial-Objective-C-1to1</a></td>
+</tr>
+</tbody>
+</table>
 
 ##### 2) 复杂场景类
 ```markdown
@@ -50,22 +106,82 @@
 Agora RTC SDK 轻松就可以完成这些复杂实用的功能。
 ```
 ###### 视频聊天(通话)
-|Platform|Language|   GitHub   |
-|:------:|:------:|:-------------:|
-|   iOS  |Swift|[https://github.com/AgoraIO/OpenVideoCall-iOS](https://github.com/AgoraIO/OpenVideoCall-iOS)|
-|   iOS  |Objective-C|[https://github.com/AgoraIO/OpenVideoCall-iOS-Objective-C](https://github.com/AgoraIO/OpenVideoCall-iOS-Objective-C)|
-| Android|Java|[https://github.com/AgoraIO/OpenVideoCall-Android](https://github.com/AgoraIO/OpenVideoCall-Android)|
-| Windows| C++  |[https://github.com/AgoraIO/OpenVideoCall-Windows](https://github.com/AgoraIO/OpenVideoCall-Windows)|
-|  macOS |Swift |[https://github.com/AgoraIO/OpenVideoCall-macOS](https://github.com/AgoraIO/OpenVideoCall-macOS)|
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Platform</th>
+<th style="text-align: center">Language</th>
+<th style="text-align: center">GitHub</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Swift</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenVideoCall-iOS">https://github.com/AgoraIO/OpenVideoCall-iOS</a></td>
+</tr>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Objective-C</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenVideoCall-iOS-Objective-C">https://github.com/AgoraIO/OpenVideoCall-iOS-Objective-C</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenVideoCall-Android">https://github.com/AgoraIO/OpenVideoCall-Android</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Windows</td>
+<td style="text-align: center">C++</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenVideoCall-Windows">https://github.com/AgoraIO/OpenVideoCall-Windows</a></td>
+</tr>
+<tr>
+<td style="text-align: center">macOS</td>
+<td style="text-align: center">Swift</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenVideoCall-macOS">https://github.com/AgoraIO/OpenVideoCall-macOS</a></td>
+</tr>
+</tbody>
+</table>
 
 ###### 视频直播(直播)
-|Platform|Language|   GitHub   |
-|:------:|:------:|:-------------:|
-|   iOS  |Swift|[https://github.com/AgoraIO/OpenLive-iOS](https://github.com/AgoraIO/OpenLive-iOS)|
-|   iOS  |Objective-C|[https://github.com/AgoraIO/OpenLive-iOS-Objective-C](https://github.com/AgoraIO/OpenLive-iOS-Objective-C)|
-| Android|Java|[https://github.com/AgoraIO/OpenLive-Android](https://github.com/AgoraIO/OpenLive-Android)|
-| Windows| C++  |[https://github.com/AgoraIO/OpenLive-Windows](https://github.com/AgoraIO/OpenLive-Windows)|
-|  macOS |Swift |[https://github.com/AgoraIO/OpenLive-macOS](https://github.com/AgoraIO/OpenLive-macOS)|
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Platform</th>
+<th style="text-align: center">Language</th>
+<th style="text-align: center">GitHub</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Swift</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenLive-iOS">https://github.com/AgoraIO/OpenLive-iOS</a></td>
+</tr>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Objective-C</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenLive-iOS-Objective-C">https://github.com/AgoraIO/OpenLive-iOS-Objective-C</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenLive-Android">https://github.com/AgoraIO/OpenLive-Android</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Windows</td>
+<td style="text-align: center">C++</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenLive-Windows">https://github.com/AgoraIO/OpenLive-Windows</a></td>
+</tr>
+<tr>
+<td style="text-align: center">macOS</td>
+<td style="text-align: center">Swift</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenLive-macOS">https://github.com/AgoraIO/OpenLive-macOS</a></td>
+</tr>
+</tbody>
+</table>
 
 ##### 3)特殊场景类
 ```markdown
@@ -73,27 +189,95 @@ Agora RTC SDK 轻松就可以完成这些复杂实用的功能。
 会不断增加，也欢迎更多的开发者贡献出自己的实现，可能还会收到神秘礼品哦。
 ```
 ###### 00 屏幕共享(很容易实现把整个屏幕内容共享给他人，也能包含声音哦)
-|Platform|Language|   GitHub   |
-|:------:|:------:|:-------------:|
-|   iOS  |Swift|[https://github.com/AgoraIO/Agora-Screen-Sharing-iOS](https://github.com/AgoraIO/Agora-Screen-Sharing-iOS)|
-| Android|Java|[https://github.com/AgoraIO/Agora-Screen-Sharing-Android](https://github.com/AgoraIO/Agora-Screen-Sharing-Android)|
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Platform</th>
+<th style="text-align: center">Language</th>
+<th style="text-align: center">GitHub</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Swift</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Screen-Sharing-iOS">https://github.com/AgoraIO/Agora-Screen-Sharing-iOS</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Screen-Sharing-Android">https://github.com/AgoraIO/Agora-Screen-Sharing-Android</a></td>
+</tr>
+</tbody>
+</table>
 
 ###### 01 客户端推流(把音视频数据拷贝一份传给其他内容接收者，比如 CDN 或者存成本地文件)
-|Platform|Language|   GitHub   |
-|:------:|:------:|:-------------:|
-|   iOS  |Swift|[https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-iOS](https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-iOS)|
-| Android|Java|[https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-Android](https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-Android)|
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Platform</th>
+<th style="text-align: center">Language</th>
+<th style="text-align: center">GitHub</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Swift</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-iOS">https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-iOS</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-Android">https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-Android</a></td>
+</tr>
+</tbody>
+</table>
 
 ###### 02 自定义视频数据源(由开发者提供视频数据给 Agora RTC SDK，玩法更多样)
-|Platform|Language|   GitHub   |
-|:------:|:------:|:-------------:|
-|   iOS  |Swift|[https://github.com/AgoraIO/Agora-Video-Source-iOS](https://github.com/AgoraIO/Agora-Video-Source-iOS)|
-| Android|Java|[https://github.com/AgoraIO/Agora-Video-Source-Android](https://github.com/AgoraIO/Agora-Video-Source-Android)|
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Platform</th>
+<th style="text-align: center">Language</th>
+<th style="text-align: center">GitHub</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Swift</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Video-Source-iOS">https://github.com/AgoraIO/Agora-Video-Source-iOS</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Video-Source-Android">https://github.com/AgoraIO/Agora-Video-Source-Android</a></td>
+</tr>
+</tbody>
+</table>
 
 ###### 03 画中画模式(Android 8.0 支持的新特性，对视频类应用非常友好)
-|Platform|Language|   GitHub   |
-|:------:|:------:|:-------------:|
-| Android|Java|[https://github.com/AgoraIO/Agora-Picture-in-Picture-Android](https://github.com/AgoraIO/Agora-Picture-in-Picture-Android)|
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Platform</th>
+<th style="text-align: center">Language</th>
+<th style="text-align: center">GitHub</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Picture-in-Picture-Android">https://github.com/AgoraIO/Agora-Picture-in-Picture-Android</a></td>
+</tr>
+</tbody>
+</table>
 
 #### 信令部分
 
@@ -104,27 +288,91 @@ Agora Signaling SDK 提供消息的发送，接收，
 容易实现点对点，群组等等面向场景的功能。
 对于初次使用 Agora SDK 的开发者来说，这是一个容易上手的示例，我们提供了完整的源码。
 ```
-|Platform|Language|   GitHub   |
-|:------:|:------:|:-------------:|
-|   iOS  |Swift|[https://github.com/AgoraIO/Agora-Signaling-Tutorial-iOS-Swift](https://github.com/AgoraIO/Agora-Signaling-Tutorial-iOS-Swift)|
-| Android|Java|[https://github.com/AgoraIO/Agora-Signaling-Tutorial-Android](https://github.com/AgoraIO/Agora-Signaling-Tutorial-Android)|
-|    Web |JavaScript|[https://github.com/AgoraIO/Agora-Signaling-Tutorial-Web](https://github.com/AgoraIO/Agora-Signaling-Tutorial-Web)|
-| Windows| C++  |[https://github.com/AgoraIO/Agora-Signaling-Tutorial-Windows](https://github.com/AgoraIO/Agora-Signaling-Tutorial-Windows)|
-|  macOS |Swift|[https://github.com/AgoraIO/Agora-Signaling-Tutorial-macOS-Swift](https://github.com/AgoraIO/Agora-Signaling-Tutorial-macOS-Swift)|
-| Linux | C++ |[https://github.com/AgoraIO/Agora-Signaling-Tutorial-Linux](https://github.com/AgoraIO/Agora-Signaling-Tutorial-Linux)|
-| Platform-independent | Java |[https://github.com/AgoraIO/Agora-Signaling-Tutorial-Java](https://github.com/AgoraIO/Agora-Signaling-Tutorial-Java)|
-| Platform-independent | Python |[https://github.com/AgoraIO/Agora-Signaling-Tutorial-Python](https://github.com/AgoraIO/Agora-Signaling-Tutorial-Python)|
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Platform</th>
+<th style="text-align: center">Language</th>
+<th style="text-align: center">GitHub</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Swift</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Signaling-Tutorial-iOS-Swift">https://github.com/AgoraIO/Agora-Signaling-Tutorial-iOS-Swift</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Signaling-Tutorial-Android">https://github.com/AgoraIO/Agora-Signaling-Tutorial-Android</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Web</td>
+<td style="text-align: center">JavaScript</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Signaling-Tutorial-Web">https://github.com/AgoraIO/Agora-Signaling-Tutorial-Web</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Windows</td>
+<td style="text-align: center">C++</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Signaling-Tutorial-Windows">https://github.com/AgoraIO/Agora-Signaling-Tutorial-Windows</a></td>
+</tr>
+<tr>
+<td style="text-align: center">macOS</td>
+<td style="text-align: center">Swift</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Signaling-Tutorial-macOS-Swift">https://github.com/AgoraIO/Agora-Signaling-Tutorial-macOS-Swift</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Linux</td>
+<td style="text-align: center">C++</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Signaling-Tutorial-Linux">https://github.com/AgoraIO/Agora-Signaling-Tutorial-Linux</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Platform-independent</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Signaling-Tutorial-Java">https://github.com/AgoraIO/Agora-Signaling-Tutorial-Java</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Platform-independent</td>
+<td style="text-align: center">Python</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Signaling-Tutorial-Python">https://github.com/AgoraIO/Agora-Signaling-Tutorial-Python</a></td>
+</tr>
+</tbody>
+</table>
 
 ##### 2) 复杂场景类
 ```markdown
 这部分示例代码稍微复杂点，只要对方在线，可以呼叫对方，建立一个视频通话，
 这是一个典型的 Agora Signaling SDK 和 Agora RTC SDK 结合的示例。
 ```
-|Platform|Language|   GitHub   |
-|:------:|:------:|:-------------:|
-|   iOS  |Objective-C|[https://github.com/AgoraIO/OpenDuo-iOS-Objective-C](https://github.com/AgoraIO/OpenDuo-iOS-Objective-C)|
-| Android|Java|[https://github.com/AgoraIO/OpenDuo-Android](https://github.com/AgoraIO/OpenDuo-Android)|
-|    Web |JavaScript|[https://github.com/AgoraIO/OpenDuo-Web](https://github.com/AgoraIO/OpenDuo-Web)|
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Platform</th>
+<th style="text-align: center">Language</th>
+<th style="text-align: center">GitHub</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Objective-C</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenDuo-iOS-Objective-C">https://github.com/AgoraIO/OpenDuo-iOS-Objective-C</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenDuo-Android">https://github.com/AgoraIO/OpenDuo-Android</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Web</td>
+<td style="text-align: center">JavaScript</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenDuo-Web">https://github.com/AgoraIO/OpenDuo-Web</a></td>
+</tr>
+</tbody>
+</table>
 
 
 ### 动态密钥鉴权
