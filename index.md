@@ -9,12 +9,12 @@
 - macOS: [https://itunes.apple.com/cn/app/agora-video-call/id1112106913?mt=12](https://itunes.apple.com/cn/app/agora-video-call/id1112106913?mt=12)
 - Android: [http://android.myapp.com/myapp/detail.htm?apkName=io.agora.vcall](http://android.myapp.com/myapp/detail.htm?apkName=io.agora.vcall)
 - Web: [https://webdemo.agora.io/videocall/](https://webdemo.agora.io/videocall/)
-- Windows: [Zip Package](http://download.agora.io/avc/AgoraVideoCall_for_Windows_v2.0.0.201.zip)
+- Windows: [Zip Package](http://download.agora.io/avc/AgoraVideoCall_for_windows_2.1.0.zip)
 
 ##### Agora Live(视频直播类应用)
 - iOS: [https://itunes.apple.com/cn/app/agora-live/id1116886856?mt=8](https://itunes.apple.com/cn/app/agora-live/id1116886856?mt=8)
 - Android: [http://android.myapp.com/myapp/detail.htm?apkName=io.agora.vlive](http://android.myapp.com/myapp/detail.htm?apkName=io.agora.vlive)
-- Windows: [Zip Package](http://download.agora.io/avc/AgoraLiveBroadcast_for_Windows_v2.0.0.201.zip)
+- Windows: [Zip Package](http://download.agora.io/avc/AgoraLiveBroadcast_for_windows_2.1.0.zip)
 
 
 ### 开源项目
@@ -275,6 +275,30 @@ Agora RTC SDK 轻松就可以完成这些复杂实用的功能。
 <td style="text-align: center">Android</td>
 <td style="text-align: center">Java</td>
 <td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Picture-in-Picture-Android">https://github.com/AgoraIO/Agora-Picture-in-Picture-Android</a></td>
+</tr>
+</tbody>
+</table>
+
+###### 04 裸数据插件(SDK 原生提供的裸数据接口是 C++ 语言，这里提供一些插件来实现 Java/Objective-C 语言的版本，更易于使用)
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Platform</th>
+<th style="text-align: center">Language</th>
+<th style="text-align: center">GitHub</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Plugin-Raw-Data-API-Android-Java">https://github.com/AgoraIO/Agora-Plugin-Raw-Data-API-Android-Java</a></td>
+</tr>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Objective-C</td>
+<td style="text-align: center">DOING</td>
 </tr>
 </tbody>
 </table>
