@@ -2,22 +2,23 @@
 
 这里汇集了实时通信有关的众多资料
 
-如果大家想体验下 Agora 的产品，以便对延时，清晰度，流畅度等等有个直观的认识，可以直接下载我们的应用
+如果大家想体验下 Agora/声网 的产品，以便对延时，清晰度，流畅度等等有个直观的认识，可以直接下载我们的应用
 
 ##### Agora Video Call(视频聊天类应用)
 - iOS: [https://itunes.apple.com/cn/app/agora-video-call/id1080303824?mt=8](https://itunes.apple.com/cn/app/agora-video-call/id1080303824?mt=8)
 - macOS: [https://itunes.apple.com/cn/app/agora-video-call/id1112106913?mt=12](https://itunes.apple.com/cn/app/agora-video-call/id1112106913?mt=12)
 - Android: [http://android.myapp.com/myapp/detail.htm?apkName=io.agora.vcall](http://android.myapp.com/myapp/detail.htm?apkName=io.agora.vcall)
 - Web: [https://webdemo.agora.io/videocall/](https://webdemo.agora.io/videocall/)
-- Windows: [Zip Package](http://download.agora.io/avc/AgoraVideoCall_for_windows_2.1.0.zip)
+- Windows: [Zip Package](http://download.agora.io/avc/AgoraVideoCall_for_windows_2.2.0.zip)
 
 ##### Agora Live(视频直播类应用)
 - iOS: [https://itunes.apple.com/cn/app/agora-live/id1116886856?mt=8](https://itunes.apple.com/cn/app/agora-live/id1116886856?mt=8)
 - Android: [http://android.myapp.com/myapp/detail.htm?apkName=io.agora.vlive](http://android.myapp.com/myapp/detail.htm?apkName=io.agora.vlive)
-- Windows: [Zip Package](http://download.agora.io/avc/AgoraLiveBroadcast_for_windows_2.1.0.zip)
+- Windows: [Zip Package](http://download.agora.io/avc/AgoraLiveBroadcast_for_windows_2.2.0.zip)
 
 
-### 开源项目
+### 开源项目索引
+更多开源项目参见 [https://github.com/AgoraIO/](https://github.com/AgoraIO/) 以及 [https://github.com/AgoraIO-Community/](https://github.com/AgoraIO-Community/)
 
 #### 媒体部分
 
@@ -82,6 +83,11 @@
 <td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Android-Tutorial-Kotlin-1to1">https://github.com/AgoraIO/Agora-Android-Tutorial-Kotlin-1to1</a></td>
 </tr>
 <tr>
+<td style="text-align: center">WeChat Mini Program</td>
+<td style="text-align: center">JavaScript</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Miniapp-Tutorial">https://github.com/AgoraIO/Agora-Miniapp-Tutorial</a></td>
+</tr>
+<tr>
 <td style="text-align: center">Web</td>
 <td style="text-align: center">JavaScript</td>
 <td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Web-Tutorial-1to1">https://github.com/AgoraIO/Agora-Web-Tutorial-1to1</a></td>
@@ -130,6 +136,11 @@ Agora RTC SDK 轻松就可以完成这些复杂实用的功能。
 <td style="text-align: center">Android</td>
 <td style="text-align: center">Java</td>
 <td style="text-align: center"><a href="https://github.com/AgoraIO/OpenVideoCall-Android">https://github.com/AgoraIO/OpenVideoCall-Android</a></td>
+</tr>
+<tr>
+<td style="text-align: center">Web</td>
+<td style="text-align: center">JavaScript</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO/OpenVideoCall-Web">https://github.com/AgoraIO/OpenVideoCall-Web</a></td>
 </tr>
 <tr>
 <td style="text-align: center">Windows</td>
@@ -202,12 +213,12 @@ Agora RTC SDK 轻松就可以完成这些复杂实用的功能。
 <tr>
 <td style="text-align: center">iOS</td>
 <td style="text-align: center">Swift</td>
-<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Screen-Sharing-iOS">https://github.com/AgoraIO/Agora-Screen-Sharing-iOS</a></td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO-Community/Agora-Screen-Sharing-iOS">https://github.com/AgoraIO-Community/Agora-Screen-Sharing-iOS</a></td>
 </tr>
 <tr>
 <td style="text-align: center">Android</td>
 <td style="text-align: center">Java</td>
-<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Screen-Sharing-Android">https://github.com/AgoraIO/Agora-Screen-Sharing-Android</a></td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO-Community/Agora-Screen-Sharing-Android">https://github.com/AgoraIO-Community/Agora-Screen-Sharing-Android</a></td>
 </tr>
 </tbody>
 </table>
@@ -226,12 +237,12 @@ Agora RTC SDK 轻松就可以完成这些复杂实用的功能。
 <tr>
 <td style="text-align: center">iOS</td>
 <td style="text-align: center">Swift</td>
-<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-iOS">https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-iOS</a></td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO-Community/Agora-client-side-AV-capturing-for-streaming-iOS">https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-iOS</a></td>
 </tr>
 <tr>
 <td style="text-align: center">Android</td>
 <td style="text-align: center">Java</td>
-<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-Android">https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-Android</a></td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO-Community/Agora-client-side-AV-capturing-for-streaming-Android">https://github.com/AgoraIO/Agora-client-side-AV-capturing-for-streaming-Android</a></td>
 </tr>
 </tbody>
 </table>
@@ -250,12 +261,12 @@ Agora RTC SDK 轻松就可以完成这些复杂实用的功能。
 <tr>
 <td style="text-align: center">iOS</td>
 <td style="text-align: center">Swift</td>
-<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Video-Source-iOS">https://github.com/AgoraIO/Agora-Video-Source-iOS</a></td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO-Community/Agora-Video-Source-iOS">https://github.com/AgoraIO-Community/Agora-Video-Source-iOS</a></td>
 </tr>
 <tr>
 <td style="text-align: center">Android</td>
 <td style="text-align: center">Java</td>
-<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Video-Source-Android">https://github.com/AgoraIO/Agora-Video-Source-Android</a></td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO-Community-Community/Agora-Video-Source-Android">https://github.com/AgoraIO-Community/Agora-Video-Source-Android</a></td>
 </tr>
 </tbody>
 </table>
@@ -274,7 +285,7 @@ Agora RTC SDK 轻松就可以完成这些复杂实用的功能。
 <tr>
 <td style="text-align: center">Android</td>
 <td style="text-align: center">Java</td>
-<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Picture-in-Picture-Android">https://github.com/AgoraIO/Agora-Picture-in-Picture-Android</a></td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO-Community/Agora-Picture-in-Picture-Android">https://github.com/AgoraIO-Community/Agora-Picture-in-Picture-Android</a></td>
 </tr>
 </tbody>
 </table>
@@ -293,12 +304,36 @@ Agora RTC SDK 轻松就可以完成这些复杂实用的功能。
 <tr>
 <td style="text-align: center">Android</td>
 <td style="text-align: center">Java</td>
-<td style="text-align: center"><a href="https://github.com/AgoraIO/Agora-Plugin-Raw-Data-API-Android-Java">https://github.com/AgoraIO/Agora-Plugin-Raw-Data-API-Android-Java</a></td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO-Community/Agora-Plugin-Raw-Data-API-Android-Java">https://github.com/AgoraIO-Community/Agora-Plugin-Raw-Data-API-Android-Java</a></td>
 </tr>
 <tr>
 <td style="text-align: center">iOS</td>
 <td style="text-align: center">Objective-C</td>
-<td style="text-align: center">DOING</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO-Community/Agora-Plugin-Raw-Data-API-iOS-Objective-C">https://github.com/AgoraIO-Community/Agora-Plugin-Raw-Data-API-iOS-Objective-C</a></td>
+</tr>
+</tbody>
+</table>
+
+###### 05 自定义加密(SDK 提供一组 API 包含在 agora::rtc::IPacketObserver 当中，可以对网络包进行一些修改。也可以使用这个特性来完成一些其他功能，需要实时带上一些额外数据的场景，比如歌词同步，元数据传输)
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Platform</th>
+<th style="text-align: center">Language</th>
+<th style="text-align: center">GitHub</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">Android</td>
+<td style="text-align: center">Java</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO-Community/Agora-Customized-Encryption-Android">https://github.com/AgoraIO-Community/Agora-Customized-Encryption-Android</a></td>
+</tr>
+<tr>
+<td style="text-align: center">iOS</td>
+<td style="text-align: center">Objective-C</td>
+<td style="text-align: center"><a href="https://github.com/AgoraIO-Community/Agora-Customized-Encryption-iOS">https://github.com/AgoraIO-Community/Agora-Customized-Encryption-iOS</a></td>
 </tr>
 </tbody>
 </table>
